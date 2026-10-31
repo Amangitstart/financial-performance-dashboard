@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/
+# Raw dataset is not committed (add it yourself - see data/raw/README.md)
+data/raw/*.csv
+data/raw/*.xlsx
